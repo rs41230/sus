@@ -5,7 +5,7 @@ Vue.component("news-ticker", {
             messages: [
                 "sussy game ඞ_ඞ",
                 "when the impostor is troll",
-                "&#3486;",
+                "UTTP IS BETTER",
                 "<a href='https://www.youtube.com/watch?v=dQw4w9WgXcQ'>play uttp layers</a>",
                 "○☛🔫🗡ඞ↑0123456789,
                 "guys i just realised that when u get layer 1.8e308 in meta there is SSSSSSSSSSSSSSSUUUUUUUUUUUUUUUUUUUSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! thing that allows you to do cool stuff and btw thank you for listening to my spoiler now you know it :D",
